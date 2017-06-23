@@ -15,5 +15,5 @@ NerdPack: Supports: apr, apt-util, bwm-ng, cpio, git, iftop, inotify, iotop,
 NerdPack: iperf, kbd, lftp, lshw, neon, p7zip, perl, python, readline, screen,
 NerdPack: sshfs-fuse, strace, subversion, unrar, utempter, vim
 NerdPack: 
-NerdPack: https://github.com/dmacias72/unRAID-plugins
+NerdPack: https://github.com/nickanderegg/unRAID-NerdPack
 NerdPack: 
